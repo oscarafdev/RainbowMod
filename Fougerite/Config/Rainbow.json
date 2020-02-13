@@ -1,0 +1,20 @@
+﻿{
+  "enabled": false,
+  "tellversion": false,
+  "deployabledecay": true,
+  "structuredecay": true,
+
+  "RemovePlayersFromCache": false,
+  "BanOnInvalidPacket": true,
+  "EnableDefaultRustDecay": true,
+  "AutoBanCraft": true,
+  "FloodConnections": 2,
+  "SaveTime": 10,
+  "SaveCopies": 5,
+  "StopServerOnSaveFail": false,
+  "CrucialSavePoint": 0,
+  "SaveNotification": "The server is currently saving! You have to wait before placing an object.",
+  "RustChat": true,
+  "RPCChat": true,
+  "ClientFunction": "FougeriteChatSystem"
+}
